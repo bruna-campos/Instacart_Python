@@ -12,12 +12,12 @@ Note: Due to confidentaialuity, the 'customer' and 'prices' data were fabricated
 
 ## Folder structure:
 1. Project Management
-  * Project Brief
+   - Project Brief
 2. Data
 3. Scripts
 4. Analysis
-  * Reports
-  * Visualisations
+   - Reports
+   - Visualisations
 5. Sent to client
-  * Final report
+   - Final report
 
