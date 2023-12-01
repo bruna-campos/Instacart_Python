@@ -8,7 +8,7 @@ This analysis used **Python** to inform on the best strategy to target the right
 
 ## Data set:
 Source: "The Instacart Online Grocery Shopping Dataset 2017”, Accessed via [Kaggle](www.instacart.com/datasets/grocery-shopping-2017) on 25.08.2023.													
-Note: Due to confidentaialuity, the 'customer' and 'prices' data were fabricated for the purpose of this exercise.
+Note: Due to confidentiality, the 'customer' and 'prices' data were fabricated for the purpose of this exercise.
 
 ## Folder structure:
 1. Project Management
