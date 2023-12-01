@@ -1,6 +1,6 @@
 # Python_analysis
 
-![Instacart logo](https://www.instacart.com/company/wp-content/uploads/2022/03/03-Instacart-Logo-Kale-1-1050x591.jpg)
+![Instacart logo](https://1000logos.net/wp-content/uploads/2023/04/Instacart-Logo.png)
 
 ## Project overview:
 Instacart, an online grocery store that operates through an app, intended to uncover more information about their sales patterns, in order to create a targeted marketing strategy.
